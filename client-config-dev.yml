@@ -1,2 +1,2 @@
 remark:
-  msg:  通过springcloudbus，刷新集群服务的某些实例
+  msg:  默认是刷新所有服务
