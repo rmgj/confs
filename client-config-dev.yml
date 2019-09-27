@@ -1,2 +1,2 @@
 remark:
-  msg:  默认是刷新所有服务
+  msg:  只刷新指定的服务，通过服务名字指定(client=config)
