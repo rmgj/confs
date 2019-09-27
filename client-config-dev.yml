@@ -1,2 +1,2 @@
 remark:
-  msg:  设置springcloudbus，通过configServer刷新配置信息
+  msg:  通过springcloudbus，刷新集群服务的某些实例
